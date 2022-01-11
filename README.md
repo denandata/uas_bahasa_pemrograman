@@ -23,3 +23,4 @@ _DAFTAR KABUPATEN DI JAWA BARAT_
 - Kabupaten Karawang
 - Kabupaten Bekasi
 - Kabupaten Pangandaran
+
